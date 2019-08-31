@@ -1,5 +1,4 @@
 <div style="text-align:center"><h2><b>Clustering Tehran venues based on each district & neighborhoods</b></h2>
-<h5>By Ali Yamini</h5>
 <h5>29 September 2019</h5>
 </div>
 
