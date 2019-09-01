@@ -1,4 +1,4 @@
-<div style="text-align:center"><h2><b>Clustering Tehran venues based on each district & neighborhoods</b></h2>
+<div style="text-align:center"><h2><b>Clustering Tehran venues based on each neighborhood</b></h2>
 <h5>29 September 2019</h5>
 </div>
 
@@ -14,5 +14,5 @@ The output of this project can be very helpful for tourists or anyone who is int
 
 ***2.	Data acquisition***
 <p>
-Surprisingly, Tehran doesn’t have a clean database for data scientists. As a data scientist you have to pretty much collect everything you need yourself. So my first step would be to collect districts and neighborhoods data from <a href="http://hom.ir/public/826-لیست-مناطق-شهر-تهران" >here</a> and put each one in a row of my Dataframe. After this step I will collect the coordinates for my neighborhoods to plot my data on a map. Coordinates will be collected by Geopy library. For the Final step, I will get my venues data based on each neighborhood using <a href="http://foursquare.com" >Foursquare</a> API which surprisingly has a valuable database for the city of Tehran.
+Surprisingly, Tehran doesn’t have a clean database for data scientists. As a data scientist you have to pretty much collect everything you need yourself. So my first step would be to collect districts and neighborhoods data from <a href="https://en.wikipedia.org/wiki/Template:Main_neighborhoods_of_Tehran" >here</a> and put each one in a row of my Dataframe. After this step I will collect the coordinates for my neighborhoods to plot my data on a map. Coordinates will be collected by Geopy library. For the Final step, I will get my venues data based on each neighborhood using <a href="http://foursquare.com" >Foursquare</a> API which surprisingly has a valuable database for the city of Tehran.
 </p>
