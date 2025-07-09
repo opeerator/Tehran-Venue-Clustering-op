@@ -3,7 +3,7 @@
 This project clusters neighborhoods across the 22 districts of **Tehran** based on their top venues using **unsupervised learning**. It was developed as part of a data science capstone to address the lack of publicly accessible venue-based insights for different parts of the city.
 
 <p align="center">
-  <img src="./map_example.jpg" alt="Clustering Map Example" width="600"/>
+  <img src="./capstone.jpg" alt="Clustering Map Example" width="600"/>
   <br><em>Example: Districts of Tehran clustered by neighborhood venue data</em>
 </p>
 
@@ -48,15 +48,6 @@ Despite its size and diversity, **Tehran** lacks structured venue analysis at th
 - Foursquare API
 
 ---
-
-## 📁 Project Structure
-
-```plaintext
-Data-science-capstone/
-├── tehran_venue_clustering.ipynb  # Main notebook with code & results
-├── data/                          # Coordinates, neighborhoods, and cleaned venue data
-├── images/                        # Visuals used in notebook and README
-└── README.md                      # Project description and documentation
 
 ## 🧠 Key Insights
 
